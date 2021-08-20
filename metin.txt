@@ -1,0 +1,3 @@
+Dating from 1991, the Python programming language was considered a space filler, a way to write scripts that "automate boring things" (as a popular book on learning Python calls it), or a way to implement rapid prototyping in other languages.
+
+However, in the last few years, Python has emerged as a top-notch citizen in modern software development, infrastructure management, and data analysis. It is no longer a backroom helper language, but a major force in web application creation and systems management, and the main driving force of the explosion in big data analytics and machine intelligence.
